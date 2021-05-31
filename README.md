@@ -18,31 +18,7 @@ Now-a-days, we're making [Room Service](https://www.roomservice.dev/), which hel
 
 **Make your own Quirk.**
 
-If you like Quirk and want it to continue, feel free to fork it. We'd ask that you change the name to avoid confusion. Just heed our warning, becareful about the way you keep yourself afloat and becareful about your desire to work on this full-time. There's [more of a write up about this here.](https://evanjconrad.com/posts/moral-competence) 
 
-If you want to fork Quirk, you should fork off of [this commit](https://github.com/Flaque/quirk/commit/7a4eabe48414de5edfefcd693e79178120eae142), it's right before we added payments and when the code was the cleanest. 
-
-🚧🚧🚧
-
-
----
-
-<p align="center">
-<h1 align="center">✨🐙 quirk. </h1>
-</p>
-<p align="center">
-  <a href="https://itunes.apple.com/us/app/quirk-cbt/id1447026451?mt=8">Download iOS</a> • <a href="https://play.google.com/store/apps/details?id=tech.econn.quirk">Download Android</a> • <a href="mailto:humans+github@quirk.fyi">Contact</a> • <a href="https://tinyletter.com/quirk">Newsletter</a>
-<br><br>
-</p>
-
-Quirk is a crossplatform, GPL-licensed, [Cognitive Behavioral Therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
-app built in React Native / Expo.
-
-Unlike many CBT apps, it's fairly unbiased in what you use it for; it doesn't ask about you
-to do depression-specific CBT exercises. That makes it fairly quick and discreet to use, especially in a public
-setting.
-
-![screenshot](https://i.imgur.com/64Cpmpm.png)
 
 ## How Quirk Supports Itself
 
